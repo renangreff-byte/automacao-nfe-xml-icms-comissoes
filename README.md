@@ -1,5 +1,7 @@
 # Automação de NF-e/XML para Prévia de ICMS e Controle de Comissões
 
+![Capa do projeto de automação de NF-e, XML, Python e análise de dados](capa-projeto-automacao-nfe.png)
+
 Projeto demonstrativo de portfólio desenvolvido em Python para processar arquivos XML de NF-e e transformar dados fiscais e operacionais em uma planilha Excel.
 
 ## Objetivos
