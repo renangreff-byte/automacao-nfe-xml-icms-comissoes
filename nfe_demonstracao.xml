@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe>
+    <infNFe Id="NFe00000000000000000000000000000000000000000000">
+      <ide>
+        <nNF>1001</nNF>
+        <dhEmi>2026-08-01T10:00:00-03:00</dhEmi>
+      </ide>
+      <emit>
+        <CNPJ>00000000000000</CNPJ>
+        <xNome>POSTO DEMONSTRACAO LTDA</xNome>
+      </emit>
+      <dest>
+        <CNPJ>00000000000000</CNPJ>
+        <xNome>EMPRESA DEMONSTRACAO LTDA</xNome>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <xProd>OLEO DIESEL S10 DEMONSTRACAO</xProd>
+          <qCom>100.0000</qCom>
+          <vProd>600.00</vProd>
+          <infAdProd>PLACA: DEMO-01</infAdProd>
+        </prod>
+      </det>
+      <det nItem="2">
+        <prod>
+          <xProd>ARLA 32 DEMONSTRACAO</xProd>
+          <qCom>10.0000</qCom>
+          <vProd>50.00</vProd>
+          <infAdProd>PLACA: DEMO-01</infAdProd>
+        </prod>
+      </det>
+      <total>
+        <ICMSTot>
+          <vICMS>78.00</vICMS>
+          <vNF>650.00</vNF>
+        </ICMSTot>
+      </total>
+      <infAdic>
+        <infCpl>ABASTECIMENTO DEMONSTRATIVO - PLACA DEMO-01</infCpl>
+      </infAdic>
+    </infNFe>
+  </NFe>
+</nfeProc>
+
