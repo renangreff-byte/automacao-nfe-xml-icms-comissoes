@@ -1,0 +1,13 @@
+{
+  "DEMO-01": {
+    "nome": "MOTORISTA EXEMPLO",
+    "tipo": "TERCEIRO",
+    "taxa_comissao": 0.02
+  },
+  "DEMO-02": {
+    "nome": "FROTA DEMONSTRACAO",
+    "tipo": "FROTA_PROPRIA",
+    "taxa_comissao": 0
+  }
+}
+
