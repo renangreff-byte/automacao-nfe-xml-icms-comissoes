@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+entrada/*.xml
+saida/*.xlsx
+!entrada/.gitkeep
+!saida/.gitkeep
+
